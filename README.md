@@ -1,5 +1,5 @@
 どなたかカメラ側のコネクタについて情報をお待ちではないでしょうか？ issue #1 をご覧下さい。  
-Does anyone have information about camera side connector see issue #1 .
+Does anyone have information about camera side connector? Please see issue #1 .
 # MB-N10cable
 これは Aliexpress で売っている Nikon MB-N10互換品のケーブルを改造して  
 より使いやすく(邪魔にならない)ケーブルを作るプロジェクトです。  
@@ -9,7 +9,7 @@ like this https://a.aliexpress.com/_mL9nkIQ
 ![before](before.jpg)
 ## Prereqeties (Bill of materials)
 * (as sacrifice) Remote cable sold as N3 in aliexpress.  
-https://a.aliexpress.com/_mMu5x4e
+like as https://a.aliexpress.com/_mMu5x4e
 * 2.5 phi stereo L angle jack.
 * heat shrink tube.
 * UV resin.
