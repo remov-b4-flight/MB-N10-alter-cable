@@ -4,12 +4,16 @@
 This project is making cable more comfortable(no hindrance) for
 alternative of Nikon MB-N10 that sold on aliexpress.  
 https://a.aliexpress.com/_mL9nkIQ  
+![before](before.jpg)
 ## Prereqeties (Bill of materials)
 * (as sacrifice) Remote cable sold as N3 in aliexpress.
 * 2.5 phi stereo L angle jack.
 * heat shrink tube.
 * UV resin.
 * some soldering skill.
+## Connection diagram
+![diagram](cable-assembly.jpg)
+
 ## Finished products
 ![cable](assembled-cable.jpg)  
 ![withcamera](suited4camera.jpg)
